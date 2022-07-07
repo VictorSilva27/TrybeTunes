@@ -1,0 +1,35 @@
+.title-album {
+    padding: 8px;
+    text-align: center;
+}
+
+.page-album {
+    display: flex;
+}
+
+.content-dad-album {
+    display: flex;
+    justify-content: center;
+}
+
+.content-album {
+    background-color: rgb(81, 101, 131);
+    width: 500px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
+    align-items: center;
+    border-bottom: 2px solid rgb(255, 255, 255);
+    margin-bottom: 20px;
+}
+
+.album-artist {
+    border: 2px solid blue;
+    margin-left: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.album-name {
+    padding: 50px;
+}

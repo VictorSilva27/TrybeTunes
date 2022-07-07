@@ -1,0 +1,41 @@
+.component-music {
+    border-bottom: 2px solid white;
+    margin-top: 5px;
+    width: 60%;
+}
+
+.track-content {
+    background-color: rgb(32, 53, 82);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.track-name {
+    display: inline-block;
+    width: 180px;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis; 
+}
+
+.audio-track {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.favorite-track {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.page-track {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    align-items: center;
+    flex-wrap: wrap;
+}
