@@ -1,3 +1,3 @@
 # Projeto-TrybeTunes
 
-<img src="./Project-TrybeTunes" />
+<img src="./Project-TrybeTunes.png" />
