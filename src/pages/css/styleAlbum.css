@@ -24,7 +24,6 @@
 }
 
 .album-artist {
-    border: 2px solid blue;
     margin-left: 5px;
     display: flex;
     flex-direction: column;
